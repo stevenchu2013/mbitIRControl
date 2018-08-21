@@ -1,0 +1,20 @@
+{
+    "name": "eggtoy_mbit_IRControl",
+    "version": "1.0.0",
+    "description": "Extension for eggtoy mbit IR receiver module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h"
+    ],
+    "public": true
+}
