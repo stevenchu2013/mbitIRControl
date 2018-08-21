@@ -2,7 +2,7 @@ Copyright (c) Microsoft Corporation
 
 All rights reserved.
 
-wuhan eggtoy Yahboom Tech
+wuhan eggtoy Tech
 
 MIT License
 
