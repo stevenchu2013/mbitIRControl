@@ -1,0 +1,5 @@
+{
+  "Mbit_IR.onPressEvent|block": "当按键按下|按键 %btn",
+  
+  "Mbit_IR.init|block": "引脚| %pin",
+}
